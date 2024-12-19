@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetana Manjarekar</h1>
-<h3 align="center">A passionate for Data Analysts</h3>
+<h3 align="center">A passionate for Web Development</h3>
 
 - 🌱 I’m currently learning **python**
 
