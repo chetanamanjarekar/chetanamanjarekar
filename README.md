@@ -2,13 +2,13 @@
 <h3 align="center">A passionate for Web Development</h3>
 <img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
-- 🌱 I’m currently learning **python**
+ 🌱 I’m currently learning **python**
 
-- 📝 Skills [Communication ,Analytical , Problem Solving](Communication ,Analytical , Problem Solving)
+ 📝 Skills [Communication ,Analytical , Problem Solving](Communication ,Analytical , Problem Solving)
 
-- 📝 Resume link [https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e](https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e)
+ 📝 Resume link [https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e](https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e)
 
-- 📫 How to reach me **chetanamanjarekar02@gmail.com**
+ 📫 How to reach me **chetanamanjarekar02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
