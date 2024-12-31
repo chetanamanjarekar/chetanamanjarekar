@@ -6,8 +6,7 @@
 
  📝 Skills Communication ,Analytical , Problem Solving
 
- 📝 Resume link [[https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e](https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e)](https://app.luminpdf.com/viewer/6774000713a72d81093df412)
-
+ 📝 Resume link (https://app.luminpdf.com/viewer/6774000713a72d81093df412)
  📫 How to reach me **chetanamanjarekar02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
