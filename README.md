@@ -4,7 +4,7 @@
 
 
 
- 📝 Skills [Communication ,Analytical , Problem Solving](Communication ,Analytical , Problem Solving)
+ 📝 Skills Communication ,Analytical , Problem Solving
 
  📝 Resume link [https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e](https://app.luminpdf.com/viewer/66438b33508f1b2216654c6e)
 
